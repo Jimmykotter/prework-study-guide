@@ -10,8 +10,7 @@ N/A
 
 ## Usage
 
-This study guide and be used to review what you have learned during your pre-work course. There was a lot of information so it is helpful to have notes as a reminder for what we covered. This is the foundation so it is good to have this information down pack to build your development abilities on.
-
+This study guide can be used to review what you have learned during your pre-work course. There was a lot of information so it is helpful to have notes as a reminder for what we covered. This is the foundation of your development abilities to build upon.
 ## Credits
 
 N/A
